@@ -42,11 +42,11 @@ Aprofundar conhecimentos sobre redes de computadores, incluindo a instalação, 
 Formar profissionais capazes de gerir sistemas informáticos, com foco na administração de servidores, sistemas operativos e virtualização.
 Capacitar para a resolução de problemas tecnológicos, oferecendo soluções eficazes em contextos empresariais e tecnológicos.
 ### Áreas de Estudo:
-Cibersegurança: Ensino sobre segurança da informação, criptografia, firewalls, gestão de riscos e metodologias de defesa contra ataques informáticos.
-Redes de Computadores: Conceitos de redes locais (LAN), redes de longa distância (WAN), protocolos de comunicação e configuração de dispositivos de rede.
-Sistemas Operativos: Instalação, configuração e administração de sistemas operativos, com foco em plataformas como Linux e Windows, além de temas relacionados com a virtualização e computação em nuvem.
-Gestão de Infraestruturas de TI: Planeamento e implementação de infraestruturas tecnológicas, envolvendo servidores, armazenamento e redes.
-Programação e Automação: Desenvolvimento de scripts e programas para automatizar processos, otimizar sistemas e melhorar a eficiência das operações tecnológicas.
+**Cibersegurança**: Ensino sobre segurança da informação, criptografia, firewalls, gestão de riscos e metodologias de defesa contra ataques informáticos.
+**Redes de Computadores**: Conceitos de redes locais (LAN), redes de longa distância (WAN), protocolos de comunicação e configuração de dispositivos de rede.
+**Sistemas Operativos**: Instalação, configuração e administração de sistemas operativos, com foco em plataformas como Linux e Windows, além de temas relacionados com a virtualização e computação em nuvem.
+**Gestão de Infraestruturas de TI**: Planeamento e implementação de infraestruturas tecnológicas, envolvendo servidores, armazenamento e redes.
+**Programação e Automação**: Desenvolvimento de scripts e programas para automatizar processos, otimizar sistemas e melhorar a eficiência das operações tecnológicas.
 
 ## Contribuições e Colaborações
 
