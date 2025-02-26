@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar sol
 
 ## Sobre Mim
 
-Sou um desenvolvedor com experiência em Java,JavaScript,HTML,CSS,TypeScript , com forte ênfase em FrontEnd.
+Sou um desenvolvedor com experiência em Java, JavaScript, HTML, CSS, TypeScript, com forte ênfase em FrontEnd.
 
 
 ## Principais Habilidades
