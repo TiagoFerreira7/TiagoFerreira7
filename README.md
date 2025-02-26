@@ -10,7 +10,7 @@ Sou um desenvolvedor com experiência em Java, JavaScript, HTML, CSS, TypeScript
 ## Principais Habilidades
 
 - **Linguagens de Programação**: JavaScript, PHP, HTML, CSS, TypeScript, Java
-- **Frameworks e Bibliotecas**: React, NodeJs, NextJs
+- **Frameworks e Bibliotecas**: React, NodeJs, NextJs, TailWindCSS
 - **Base de Dados**: MySQL, MongoDB
 
 ## Experiência Profissional
